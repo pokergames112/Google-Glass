@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @font-face {
     font-family: 'FonteLogo';
-    src: url("../_fonts/bubblegum-sans-regular.otf");
+    src: url("bubblegum-sans-regular.otf");
 }
 body{
     font-family: arial, sans-serif;
@@ -39,7 +39,7 @@ header#cabecalho img#icone{
 header#cabecalho{
     border-bottom: 1px #606060 solid;
     height: 150px;
-    background:url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
+    background:url("glass-logo-peq.jpg") no-repeat 0px 80px;
 }
 
 header#cabecalho h1{
